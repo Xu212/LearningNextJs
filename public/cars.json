@@ -1,0 +1,24 @@
+{
+    "cars": [
+        {
+            "id": "lambo",
+            "color": "red",
+            "price": 1
+        },
+        {
+            "id": "lambo2",
+            "color": "red",
+            "price": 2
+        },
+        {
+            "id": "lambo3",
+            "color": "red",
+            "price": 3
+        },
+        {
+            "id": "lambo4",
+            "color": "red",
+            "price": 4
+        }
+    ]
+}
