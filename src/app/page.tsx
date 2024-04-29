@@ -1,4 +1,4 @@
-import Cs from "../../pages/fetch/hello/page";
+import Cs from "../../pages/hello/page";
 
 export default function Home() {
   return (<><Cs></Cs>
