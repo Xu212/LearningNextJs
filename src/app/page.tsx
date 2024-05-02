@@ -1,4 +1,4 @@
-import Cs from "../../pages/hello/page";
+import Cs from "./hello/page";
 
 export default function Home() {
   return (<><Cs></Cs>
